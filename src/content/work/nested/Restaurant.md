@@ -12,8 +12,6 @@ tags:
   - Template
 ---
 
-Link to project: https://lustrous-bienenstitch-0cdc51.netlify.app
-
 ### **How It's Made?**
 
 Tech used: HTML, CSS, CSS Grid by utilizing (https://angrytools.com/css-grid/), Flexbox, placeholder images were used via VS Code extension from (https://lorem.space), icons used from (https://fontawesome.com), (https://logodust.com), and placeholder logo from (https://logoipsum.com/).
